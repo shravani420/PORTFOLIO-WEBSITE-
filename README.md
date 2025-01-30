@@ -20,3 +20,6 @@ DECLARATION AND HTML:- -<!DOCTYPE html>: Declares the document type as HTML5, wh
 <link rel="stylesheet" href="styles.css">: Links to an external CSS file (styles.css) to style the web page.
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>: Includes the GSAP (GreenSock Animation Platform) JavaScript library from a CDN. This library helps with high-performance animations.
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>: Includes the Three.js library for rendering 3D graphics, which could be used for the background effect or any 3D interaction.
+
+OUTPUT -
+![Image](https://github.com/user-attachments/assets/fd1b4a1e-fda2-43a4-bf20-cedc95e54173)
